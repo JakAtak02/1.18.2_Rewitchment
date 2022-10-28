@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "bark",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "rewitchment:alder_log"
+    }
+  },
+  "result": {
+    "item": "rewitchment:alder_wood",
+    "count": 3
+  }
+}

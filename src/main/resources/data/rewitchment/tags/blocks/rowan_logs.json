@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "rewitchment:rowan_log",
+    "rewitchment:rowan_wood",
+    "rewitchment:stripped_rowan_log",
+    "rewitchment:stripped_rowan_wood"
+  ]
+}

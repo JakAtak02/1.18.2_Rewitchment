@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "rewitchment:silver_block",
+    "rewitchment:silver_ore",
+    "rewitchment:raw_silver_block",
+    "rewitchment:deepslate_silver_ore"
+  ]
+}

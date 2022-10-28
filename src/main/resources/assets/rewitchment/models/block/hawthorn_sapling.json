@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "rewitchment:block/hawthorn_sapling"
+  }
+}

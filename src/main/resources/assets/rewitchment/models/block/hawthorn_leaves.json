@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "rewitchment:block/hawthorn_leaves"
+  }
+}

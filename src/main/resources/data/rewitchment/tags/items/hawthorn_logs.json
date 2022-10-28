@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "rewitchment:hawthorn_log",
+    "rewitchment:hawthorn_wood",
+    "rewitchment:stripped_hawthorn_log",
+    "rewitchment:stripped_hawthorn_wood"
+  ]
+}

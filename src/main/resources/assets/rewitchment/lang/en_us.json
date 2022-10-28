@@ -1,0 +1,37 @@
+{
+  "item.rewitchment.silver_ingot": "Silver Ingot",
+  "item.rewitchment.silver_nugget": "Silver Nugget",
+  "item.rewitchment.raw_silver": "Raw Silver",
+
+  "block.rewitchment.silver_block": "Block of Silver",
+  "block.rewitchment.raw_silver_block": "Block of Raw Silver",
+  "block.rewitchment.silver_ore": "Silver Ore",
+  "block.rewitchment.deepslate_silver_ore": "Deepslate Silver Ore",
+
+  "block.rewitchment.rowan_log": "Rowan Log",
+  "block.rewitchment.rowan_planks": "Rowan Planks",
+  "block.rewitchment.rowan_wood": "Rowan Wood",
+  "block.rewitchment.stripped_rowan_log": "Stripped Rowan Log",
+  "block.rewitchment.stripped_rowan_wood": "Stripped Rowan Wood",
+  "block.rewitchment.rowan_sapling": "Rowan Sapling",
+  "block.rewitchment.rowan_leaves": "Rowan Leaves",
+
+  "block.rewitchment.alder_log": "Alder Log",
+  "block.rewitchment.alder_planks": "Alder Planks",
+  "block.rewitchment.alder_wood": "Alder Wood",
+  "block.rewitchment.stripped_alder_log": "Stripped Alder Log",
+  "block.rewitchment.stripped_alder_wood": "Stripped Alder Wood",
+  "block.rewitchment.alder_sapling": "Alder Sapling",
+  "block.rewitchment.alder_leaves": "Alder Leaves",
+
+  "block.rewitchment.hawthorn_log": "Hawthorn Log",
+  "block.rewitchment.hawthorn_planks": "Hawthorn Planks",
+  "block.rewitchment.hawthorn_wood": "Hawthorn Wood",
+  "block.rewitchment.stripped_hawthorn_log": "Stripped Hawthorn Log",
+  "block.rewitchment.stripped_hawthorn_wood": "Stripped Hawthorn Wood",
+  "block.rewitchment.hawthorn_sapling": "Hawthorn Sapling",
+  "block.rewitchment.hawthorn_leaves": "Hawthorn Leaves",
+
+
+  "itemGroup.rewitchmenttab": "Rewitchment"
+}

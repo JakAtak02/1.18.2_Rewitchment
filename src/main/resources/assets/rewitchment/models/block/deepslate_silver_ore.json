@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures" : {
+    "all": "rewitchment:block/deepslate_silver_ore"
+  }
+}
